@@ -17,17 +17,13 @@ url                      : https://eliacostantini.github.io # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eliacostantini/eliacostantini.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author 
 author:
-  # Biographic information
-  avatar           : "profile.png"
   name             : "Elia Costantini"
-  pronouns         : # example: "she/her"  
-  bio              : 
+  avatar           : "profile.png"
+  bio              : "Ph.D. Student"
   location         : "Forlì, Italy"
-  employer         : "PhD Student @ University of Bologna"
+  employer         : "University of Bologna"
   uri              : "https://www.unibo.it/sitoweb/elia.costantini3/en"
   email            : "elia.costantini3@unibo.it" 
 
